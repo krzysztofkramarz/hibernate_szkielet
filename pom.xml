@@ -24,7 +24,7 @@
       <version.maven>3.5.3</version.maven>
 
       <!--Dependencies for external libraries-->
-      <version.hibernate.core>5.4.2.Final</version.hibernate.core>
+      <version.hibernate.core>5.4.24.Final</version.hibernate.core>
       <version.lombok>1.18.6</version.lombok>
 
       <!--### PLUGINS ###-->
